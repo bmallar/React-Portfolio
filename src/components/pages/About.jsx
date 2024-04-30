@@ -7,7 +7,7 @@ export default function About() {
       key: 1,
       title: "Blog",
       description: "JS Blog",
-      image: "image url here",
+      image: "../../images/Tech Resume.pdf",
       github: "http://google.com",
       liveUrl: "www.wikipedia.org"
     },
