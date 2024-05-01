@@ -1,0 +1,26 @@
+.footer ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    size: 50px;
+    justify-content: space-around;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footerImgs{
+    width: 50px;
+    height: 50px;
+}
+
+.form {
+    margin: 20px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
