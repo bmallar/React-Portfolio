@@ -5,25 +5,49 @@ export default function About() {
   const projects = [
     {
       key: 1,
-      title: "Blog",
-      description: "JS Blog",
-      image: "../../images/Tech Resume.pdf",
-      github: "http://google.com",
-      liveUrl: "www.wikipedia.org"
+      title: "Trivl",
+      description: "This project entailed the creation of a trivia game in the style of the New York Times games Wordle, Connections, Crossword, etc.  Our game, TRIVL, is a ten question trivia game that allows users to test their knowledge across a wide variety of topics and compete with their friends in battles of wit.",
+      image: "../../images/",
+      github: "https://github.com/njohnson2897/trivl-project",
+      liveUrl: "https://njohnson2897.github.io/trivl-project/"
     },
     {
       key: 2,
-      title: "Blog 2",
-      description: "JS Blog",
-      image: "image url here",
+      title: "Activ",
+      description: "Activ is a workout tracking and sharing application that allows users to track past workouts, view other user's workouts for inspiration, and share accomplishments to their friends. The application has two major functions: first, Activ is meant to be an educational resource for athletes of any level to learn  more about exercises they already do or discover new exercises that they might like. Second, Activ is meant to serve as a social media platform through which friends can connect and celebrate the progress that they make.",
+      image: "../../images/",
+      github: "https://github.com/bmallar/Activ",
+      liveUrl: "https://activ.onrender.com/"
+    },
+    {
+      key: 3,
+      title: "Ai Project",
+      description: "This is a Ai prompt generator that will answer any coding question you might have. I created this generator outside of class using Javascript, Node and Api integration, the directions to run this are in my Readme",
+      image: "../../images",
+      github: "https://github.com/bmallar/Ai-Project",
+      liveUrl: "https://github.com/bmallar/Ai-Project#"
+    },
+    {
+      key: 4,
+      title: "PWA Text Editor",
+      description: "I made a PWA TextEditor to create notes or code snippets with or without an internet connection so that I can retrieve them for later use. Clicking the install button will install this a ",
+      image: "../../images",
       github: "github repo url",
       liveUrl: "live url"
     },
     {
-      key: 3,
+      key: 5,
       title: "Blog 3",
       description: "JS Blog",
-      image: "image url here",
+      image: "../../images",
+      github: "github repo url",
+      liveUrl: "live url"
+    },
+    {
+      key: 6,
+      title: "Project 3",
+      description: "This is a placeholder for my 3rd project",
+      image: "../../images/placeholder",
       github: "github repo url",
       liveUrl: "live url"
     },
