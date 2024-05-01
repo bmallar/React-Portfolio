@@ -1,5 +1,10 @@
 import Project from "./Project";
-
+// import image from "../../images"
+// import image from "../../images"
+// import image from "../../images"
+// import image from "../../images"
+// import image from "../../images"
+// import image from "../../images"
 
 export default function About() {
   const projects = [
@@ -30,18 +35,18 @@ export default function About() {
     {
       key: 4,
       title: "PWA Text Editor",
-      description: "I made a PWA TextEditor to create notes or code snippets with or without an internet connection so that I can retrieve them for later use. Clicking the install button will install this a ",
+      description: "I made a PWA TextEditor to create notes or code snippets with or without an internet connection so that I can retrieve them for later use. Clicking the install button will install this as a application to your home screen",
       image: "../../images",
       github: "github repo url",
       liveUrl: "live url"
     },
     {
       key: 5,
-      title: "Blog 3",
-      description: "JS Blog",
+      title: "Employee Tracker",
+      description: "This is a employee tracker made by using inquirer, postgres and SQL. This allows the user to  ",
       image: "../../images",
-      github: "github repo url",
-      liveUrl: "live url"
+      github: "https://github.com/bmallar/Employee-Tracker",
+      liveUrl: "https://drive.google.com/file/d/1KX4SvbxbGGPrgvJToMTCYzKD0hbYz6kh/view"
     },
     {
       key: 6,
