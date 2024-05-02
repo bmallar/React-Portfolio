@@ -2,7 +2,7 @@
 
 function Project(props){
     return(
-        <div>
+        <div className="cards">
     <div className="card" style={{width: "18rem"}}>
    <img src={props.image} className="card-img-top" alt="..."/>
   < div className="card-body">
